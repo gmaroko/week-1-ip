@@ -1,0 +1,9 @@
+body {
+    background-image: url(../images/photo.png)
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: aqua;
+}
